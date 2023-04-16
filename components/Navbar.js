@@ -1,10 +1,11 @@
 import Link from 'next/link';
+import styles from '../styles/Navbar.module.css';
 
 
 const Navbar = () => {
     return ( 
-        <nav>
-            <div className="logo">
+        <nav  className={styles.navbar} >
+            <div className={styles.logo}>
                 Course Direcoty
             </div>
 
