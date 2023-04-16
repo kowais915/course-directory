@@ -1,3 +1,9 @@
+# Course Directory Web Application
+This application is built with Next.js. Instead of a real coureses API, it uses JSON placeholder. I may add a proper backend later. 
+
+# Deployment
+The app is deployed [here.]()
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
