@@ -16,7 +16,7 @@ const Error = () => {
         <div className={styles.container}>
             <Image src="/4041.jpg" height={400} width={400}></Image>
            
-            <p> Go back to  <Link href="/"> home page</Link> </p>
+            <Link href="/" className={styles.link}> Home</Link> 
         </div>
      );
 }
