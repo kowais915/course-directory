@@ -1,7 +1,14 @@
 .footer{
     display: flex;
     justify-content: center;
-    padding: 20px;
     font-size: 1.1em;
     font-weight: 400;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    margin: -10px;
+    
+}
+ .title {
+    background-color: black;
 }
